@@ -9,5 +9,5 @@ In the [live video session](https://www.youtube.com/watch?v=uwwWVAgJBcM&list=PL2
 
 # Sirag Ravel's YouTube channel
 -
-He is great! Please subscribe.
+He is fun and great at teaching! Subscribe to learn more!
 https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
