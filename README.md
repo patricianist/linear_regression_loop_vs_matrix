@@ -7,7 +7,7 @@ In the [live video session](https://www.youtube.com/watch?v=uwwWVAgJBcM&list=PL2
 [chart]: https://github.com/patricianist/linear_regression_loop_vs_matrix/blob/master/chart.png
 
 
-# Sirag Ravel's YouTube channel
+# Sirag Raval's YouTube channel
 -
 He is fun and great at teaching! Subscribe to learn more!
 https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
