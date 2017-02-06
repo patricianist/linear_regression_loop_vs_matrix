@@ -4,7 +4,7 @@ In the [live video session](https://www.youtube.com/watch?v=uwwWVAgJBcM&list=PL2
 
 ![comparison][chart]
 
-[chart]: https://github.com/patricianist/linear_regression_loop_vs_matrix/blob/master/ah2oAAAAASUVORK5CYII%3D.png
+[chart]: https://github.com/patricianist/linear_regression_loop_vs_matrix/blob/master/chart.png
 
 
 # Sirag Ravel's YouTube channel
